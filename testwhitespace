@@ -1,8 +1,8 @@
-const path = require('path');
-const fs = require('fs');
-const webpack = require('webpack');
-const TsconfigPathsPlugin = require('tsconfig-paths-webpack-plugin');
-const SpeedMeasurePlugin = require('speed-measure-webpack-plugin');
+  const path = require('path');
+const fs =   require('fs');
+const webpack = require('webpack');  
+const TsconfigPathsPlugin = require('tsconfig-paths-webpack-plugin')  ;
+const S  peedMeasurePlugin = require('speed-measure-webpack-plugin');
 
 const appDirectory = fs.realpathSync(process.cwd());
 const resolveApp = (relativePath) => path.resolve(appDirectory, relativePath);
@@ -15,8 +15,8 @@ module.exports = [
         mode: 'development',
         target: 'node',
         devtool: 'cheap-module-source-map',
-        entry: {
-            extension: './src/extension.ts',
+      entry: {
+            extension:'./src/extension.ts',
         },
         module: {
             exprContextCritical: false,

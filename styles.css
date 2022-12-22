@@ -7,13 +7,17 @@
   display: block;
   width:384px;
   margin: 50px auto;
+  
+  
 }
 
 p {
   display: block;
   width: 400px;
   margin: 50px auto;
+  
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  
 }
 #octocat {
   display: block;
@@ -23,8 +27,9 @@ p {
 
 p {
   display: block;
-  width: 400px;
-  margin: 50px auto;
+  width: 400px;   
+     margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  
 }
 © 2020 GitHub, Inc.

@@ -1,1 +1,5 @@
+<<<<<<< conflicts2
 conflictadd3
+=======
+conflictadd2
+>>>>>>> conflict

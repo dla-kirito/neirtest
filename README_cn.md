@@ -12,7 +12,7 @@ You are currently viewing your project's **README** file. _**README**_ files are
 
 ## Your first website
 
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
+**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website  you coded with the world. GitH you coded with the world. GitH you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
 
 [Learn more about GitHub Pages](https://pages.github.com/)
 111
